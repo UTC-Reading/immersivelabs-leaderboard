@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := build
 
-BINARY=your-package-name
+BINARY=immersivelabs-leaderboard
 
 LD_FLAGS += -s -w
 
