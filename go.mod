@@ -1,4 +1,4 @@
-module github.com/samsonnagamani/immersivelabs-leaderboard
+module github.com/UTC-Reading/immersivelabs-leaderboard
 
 go 1.17
 
