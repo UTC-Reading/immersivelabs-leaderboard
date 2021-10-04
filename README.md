@@ -29,5 +29,5 @@ it there. Or add the path of the binary to the PATH environment variable
 and run `immersivelabs-leaderboard` in the terminal.
 
 The csv should be saved to $HOME/Downloads/ImmersiveLabs/*.csv for Unix
-based systems or saed to %USERPROFILE%/Downloads/ImmersiveLabs/*.csv for
+based systems or saved to %USERPROFILE%/Downloads/ImmersiveLabs/*.csv for
 Windows
